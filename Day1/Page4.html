@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form action="Page3.html">
+        <table>
+            <tr>
+                <td><label for="txtFName">First Name</label></td>
+                <td><input type="text" id="txtFName" required /></td>
+            </tr>
+            <tr>
+                <td><label for="txtLName">Last Name</label></td>
+                <td><input type="text" id="txtLName"  required/></td>
+            </tr>
+            <tr>
+                <td><label for="txtAge">Age</label></td>
+                <td><input type="number" id="txtAge" min="18" max="56"/></td>
+            </tr>
+            <tr>
+                <td><label for="txtPassword">Password</label></td>
+                <td><input type="password" id="txtPassword" maxlength="10" /></td>
+            </tr>
+            <tr>
+                <td><label for="txtDOB">Date of Birth</label></td>
+                <td><input type="date" id="txtDOB" /></td>
+            </tr>
+            <tr>
+                <td><label>Gender</label></td>
+                <td>
+                    <input type="radio" id="rdbMale" name="grpGender" checked />Male
+                    <input type="radio" id="rdbFemale" name="grpGender" />Female
+                </td>
+            </tr>
+            <tr>
+                <td><label>Graduation</label></td>
+                <td>
+                    <input type="checkbox" id="chkUG" checked />UG
+                    <input type="checkbox" id="chkPG" />PG
+                </td>
+            </tr>
+            <tr>
+                <td><label for="ddlCity">City</label></td>
+                <td>
+                    <select id="ddlCity">
+                        <option value="agra">Agra</option>
+                        <option value="bangalore" selected>Bangalore</option>
+                        <option value="chennai">Chennai</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="ddlCity">Country</label></td>
+                <td>
+                    <input list="ddlCountry" />
+                    <datalist id="ddlCountry">
+                        <option value="Africa"></option>
+                        <option value="India"></option>
+                        <option value="USA"></option>
+                        <option value="UK"></option>
+                    </datalist>
+                </td>
+            </tr>
+            <tr>
+                <td><input type="submit" /></td>
+                <td><input type="reset" /></td>
+            </tr>
+        </table>
+        
+    </form>
+</body>
+</html>

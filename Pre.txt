@@ -1,0 +1,20 @@
+Hey guys!!!!!
+Lets get dig in to some logics. Can we???
+The following are some links for coding logics. Try solving them. 
+Get ready to swrill your mind....
+1)
+https://www.hackerrank.com/challenges/game-of-two-stacks/problem
+2)
+https://www.hackerrank.com/challenges/compare-the-triplets/problem
+3)
+https://www.geeksforgeeks.org/swap-nodes-binary-tree-every-kth-level/
+4)
+https://www.geeksforgeeks.org/number-of-unique-pairs-in-an-array/
+5)
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+6)
+https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/3237/
+7)
+https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3248/
+8)
+https://www.hackerrank.com/challenges/waiter/problem

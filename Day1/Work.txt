@@ -1,0 +1,18 @@
+input
+   text,number,date,password,radio,check,submit,reset
+select
+datalist
+label
+button
+form
+
+table,ol,ul,dl,articl,section,p,font,body,vedio,embed, audio,img,div,a,iframe
+br,b,i,strong,mark,em
+body,head,meta
+
+progress,meter,HorizontalRule - explore
+DRY-Do not repeat yourself
+
+Clues - iFrame, HyperLink,Table
+
+

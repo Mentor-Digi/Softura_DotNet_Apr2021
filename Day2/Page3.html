@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Style2.css" rel="stylesheet" />
+    <style>
+        div{
+          background-color:red;
+          height:250px;
+          width:250px;
+        }
+        input:disabled {
+            border: black 2px solid;
+        }
+        #div1 {
+            position: relative;
+            left: 0px;
+            top: 0px;
+            border-radius: 100px;
+            text-align: center;
+            animation-name: divAnimate;
+            animation-duration: 5s;
+            animation-iteration-count:infinite;
+            /*transition: left 5s top 5s;*/
+        }
+/*        @keyframes divAnimate {
+            from {
+                left: 0px;
+            }
+
+            to {
+                left: 100px;
+            }*/
+        @keyframes divAnimate{
+            10% {
+                left: 0px;
+                top: 0px;
+            }
+            25% {
+                left: 50px;
+                top: 50px;
+                transform:rotate(25deg);
+            }
+            50% {
+                left: 75px;
+                top: 0px;
+                transform: rotate(50deg);
+            }
+            75% {
+                left: 100px;
+                top: 50px;
+                transform: rotate(75deg);
+            }
+            100% {
+                left: 150px;
+                top: 0px;
+                transform: rotate(100deg);
+            }
+        }
+        }
+       /* #div1:hover{
+            left:100px;
+            top:50px;
+        }*/
+    </style>
+</head>
+<body>
+    <div id="div1">Hello </div>
+    <input type="text" />
+    <br />
+    <input type="text" disabled />
+    <br />
+    <input type="text"  />
+    <br />
+    <input type="text"  />
+    <br />
+    <select disabled>
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+        <option>D</option>
+    </select>
+</body>
+</html>

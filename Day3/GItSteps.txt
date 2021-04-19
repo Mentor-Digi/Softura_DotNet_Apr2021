@@ -1,0 +1,18 @@
+To create a local repo
+git init
+
+
+To stage the files
+git add -A
+
+To commit the files
+git commit -a -m "My first commit"
+
+To connect to a remote repo
+git remote add origin https://github.com/gayat19/CheckGitApr21.git
+
+To push the file
+git push origin master
+
+To pull the updated files
+git pull origin master

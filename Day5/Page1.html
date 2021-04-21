@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        div{
+            width:300px;
+        }
+    </style>
+    <!--<script src="jQuery3_6.js">    </script>-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(
+            function () {
+                $("#btnSubmit").click(
+                    function () {
+                        var name = $("#txtName").val();
+                        var err_style= {
+                            "border-color": "red",
+                            "border-width": "6px",
+                            "border-style":"double"
+                        }
+                        if (name == "")
+                            $("#txtName").css(err_style);
+                    }
+                )
+            }
+        );
+    </script>
+    <title></title>
+</head>
+<body>
+    <div>
+        <input class="form-control" type="text" id="txtName" />
+        <button class="btn btn-success" id="btnSubmit">Submit</button>
+    </div>
+    <button id="btnOne" class="btn btn-primary">One</button>
+    <button id="btnTwo" class="btn btn-primary">Two</button>
+</body>
+</html>

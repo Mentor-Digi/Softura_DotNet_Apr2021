@@ -1,0 +1,21 @@
+RDBMS
+IT
+EF Codd
+
+Table - More managable
+Entity
+Relationship
+Tuple
+Attribute
+  simple/single value example - employee ID
+  multi value Example Skills
+  complex  example Address
+  derived example age(from date of birth)
+Entity
+  Strong
+  Weak
+Primary Key/ Key Attribute - > that allows you to identify every tuple uniqe
+Candidate Key - Eligible to become primary key
+Alternate Keys
+Composite Key - more than 1 attribute combine to become the primary key
+

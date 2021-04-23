@@ -1,0 +1,22 @@
+Select
+Where
+  And 
+  Or
+  Like
+  In
+  Not In
+  Is Null
+  Is Not Null
+  Between
+Projection
+Group By
+Having
+Order By
+
+Sub Query
+Joins
+  Cross
+  Inner
+  Outer
+    Left
+    Right

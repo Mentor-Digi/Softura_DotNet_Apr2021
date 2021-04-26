@@ -1,0 +1,30 @@
+Create the following tables
+Employee(id-identity starts in 100 inc by 1,
+Name,age, phone9cannot be null, gender)
+Salary(id-identity starts at 1 increments by 100,
+Basic,HRA,DA,deductions)
+EmployeeSalary(transaction_number int,
+employee_id-reference Employee's Id 
+Salary_id reference Salary Id,
+Date)
+PS - In teh emeployee salary table transaction number is the primary key
+the combination of employee_id, salary_id and date should always be unique
+
+
+Add a column email-varchar(100) to the employee table
+
+Insert few records in all the tables
+
+Create a procedure which will print the total salary of employee by taking the employee id and the date
+total = Basic+HRA+DA-deductions
+
+Create a procudure which will calculate the average salary of an employee taking his ID
+
+Create a procedure which will catculate tax payable by employee
+Slabs as follows
+total - 100000 - 0%
+100000 > total < 200000 - 5%
+200000 > total < 350000 - 6%
+total > 350000 - 7.5%
+
+

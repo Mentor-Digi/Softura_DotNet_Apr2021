@@ -145,4 +145,10 @@ exec proc_UnderstandingOutParameter 25,@myData out
 select @myData
 
 
+create table tblSampleDate(dob date)
+
+insert into tblSampleDate values('2021-04-26')
+
+select * from tblSampleDate
+
 

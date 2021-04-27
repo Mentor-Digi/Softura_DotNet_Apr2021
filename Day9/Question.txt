@@ -1,0 +1,28 @@
+Use Pubs
+
+1) Create procedure that will take the author first name and last name and print all the books the author sold- (15)
+
+2) Print the Author name, Publisher name and the sale amount for every book(use joins)(15)
+
+3) Print the publisher name 
+Then print all the titles published by the publisher
+under every title print the authors for it
+For every title print the number of quantity sold and the date of sale
+PS - use cursor(30)
+
+4) Create a account table
+account number,name, balance, status(open/blocked)(default- open)
+Create a transaction table
+tran_id, from_account,to_account,amount,remarks
+
+Execute the transaction only if the transaction meets the following criterias
+a) Account should have min balance of 1500 after the debit
+b) credit or debit cannot be done to blocked account
+
+Use transaction to achive the same
+debit the from account and credit the to account
+insert to transaction table(30)
+
+5) If a transaction table is updated with status void update the account table by crediting and debiting the debited and credited amount
+PS use trigger(10)
+

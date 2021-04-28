@@ -1,0 +1,19 @@
+.NET Framework and .NET Core
+PLT
+OOPS
+Debugging
+
+Interoperability=>Inter operational ability
+Platform Independent
+
+Execution => PT + Space in the memory
+
+Data types
+Value Types - > int,float,double,boolean
+Ref Types -> string,object of any class, array
+
+statements
+ Sequence
+ selection
+ Iteration
+

@@ -2,7 +2,7 @@ Use Pubs
 
 1) Create procedure that will take the author first name and last name and print all the books the author sold- (15)
 
-2) Print the Author name, Publisher name and the sale amount for every book(use joins)(15)
+2) Print the Author name, Publisher name and the sale amount for every book(use joins)(5)
 
 3) Print the publisher name 
 Then print all the titles published by the publisher

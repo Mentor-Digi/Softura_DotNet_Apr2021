@@ -1,0 +1,13 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.exe
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\bin\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day10\FirstConsoleSolution\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.genruntimeconfig.cache

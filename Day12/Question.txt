@@ -1,0 +1,17 @@
+1) Create a application that will take a credit card details(number, expiry date and cvv) and check if it is valid
+a) card number should be 15 or 16 in length
+b) the expiry date should be greater than today's date
+c) the cvv number should be a 3 digit number
+c) the number should comply the following logic
+Card number
+4477 4683 4311 3002
+Reverse the number
+2003 1134 3864 7744
+mark the even position number and multiply by 2
+2+0+0+6+1+2+3+8+3+16+6+8+7+14+4+8
+if teh product results in a 2 digit number sum it up
+2+0+0+6+1+2+3+8+3+7+6+8+7+5+4+8
+sum it up
+70
+Mod 10 = 0 then valid card
+70%10

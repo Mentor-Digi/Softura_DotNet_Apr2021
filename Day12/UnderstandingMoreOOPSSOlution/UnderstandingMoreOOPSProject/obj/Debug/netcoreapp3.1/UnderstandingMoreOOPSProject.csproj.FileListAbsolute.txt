@@ -1,0 +1,13 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.exe
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.runtimeconfig.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\bin\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day12\UnderstandingMoreOOPSSOlution\UnderstandingMoreOOPSProject\obj\Debug\netcoreapp3.1\UnderstandingMoreOOPSProject.genruntimeconfig.cache

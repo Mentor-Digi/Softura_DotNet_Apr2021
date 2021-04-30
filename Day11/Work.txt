@@ -1,0 +1,10 @@
+Object
+Class
+Inheritance
+  Single
+  Multi-Level
+  Hirar
+
+Polymorphism
+  Overriding - dynamic - runtime
+  Overloading - static - compile time

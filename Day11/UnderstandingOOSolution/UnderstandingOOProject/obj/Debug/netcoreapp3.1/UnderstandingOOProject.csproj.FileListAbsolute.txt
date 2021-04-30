@@ -1,0 +1,13 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.exe
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.runtimeconfig.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\bin\Debug\netcoreapp3.1\UnderstandingOOProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day11\UnderstandingOOSolution\UnderstandingOOProject\obj\Debug\netcoreapp3.1\UnderstandingOOProject.genruntimeconfig.cache

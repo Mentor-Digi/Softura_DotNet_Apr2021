@@ -1,0 +1,17 @@
+Abstraction
+  Interface is a way of abstarcting a class
+
+Array
+
+
+C# other concepts
+  Nullable primitive types
+  Error Handling
+
+Create
+Read
+Update
+Delete
+CRUD - > operation
+
+  

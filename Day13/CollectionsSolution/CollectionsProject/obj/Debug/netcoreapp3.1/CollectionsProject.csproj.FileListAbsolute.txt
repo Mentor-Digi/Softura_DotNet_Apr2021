@@ -1,0 +1,13 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\bin\Debug\netcoreapp3.1\CollectionsProject.exe
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\bin\Debug\netcoreapp3.1\CollectionsProject.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\bin\Debug\netcoreapp3.1\CollectionsProject.runtimeconfig.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\bin\Debug\netcoreapp3.1\CollectionsProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\bin\Debug\netcoreapp3.1\CollectionsProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\bin\Debug\netcoreapp3.1\CollectionsProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\obj\Debug\netcoreapp3.1\CollectionsProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\obj\Debug\netcoreapp3.1\CollectionsProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\obj\Debug\netcoreapp3.1\CollectionsProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\obj\Debug\netcoreapp3.1\CollectionsProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\obj\Debug\netcoreapp3.1\CollectionsProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\obj\Debug\netcoreapp3.1\CollectionsProject.genruntimeconfig.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day13\CollectionsSolution\CollectionsProject\obj\Debug\netcoreapp3.1\CollectionsProject.csprojAssemblyReference.cache

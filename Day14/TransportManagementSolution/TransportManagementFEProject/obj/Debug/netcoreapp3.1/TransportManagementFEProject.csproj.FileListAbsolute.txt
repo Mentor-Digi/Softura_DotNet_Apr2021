@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.exe
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.runtimeconfig.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementFEProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementBLLibrary.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\bin\Debug\netcoreapp3.1\TransportManagementBLLibrary.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.csproj.CopyComplete
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\TransportManagementSolution\TransportManagementFEProject\obj\Debug\netcoreapp3.1\TransportManagementFEProject.genruntimeconfig.cache

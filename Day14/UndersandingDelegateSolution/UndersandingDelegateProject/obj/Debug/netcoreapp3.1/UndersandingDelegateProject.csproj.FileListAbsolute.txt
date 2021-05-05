@@ -1,0 +1,13 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\bin\Debug\netcoreapp3.1\UndersandingDelegateProject.exe
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\bin\Debug\netcoreapp3.1\UndersandingDelegateProject.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\bin\Debug\netcoreapp3.1\UndersandingDelegateProject.runtimeconfig.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\bin\Debug\netcoreapp3.1\UndersandingDelegateProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\bin\Debug\netcoreapp3.1\UndersandingDelegateProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\bin\Debug\netcoreapp3.1\UndersandingDelegateProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\obj\Debug\netcoreapp3.1\UndersandingDelegateProject.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\obj\Debug\netcoreapp3.1\UndersandingDelegateProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\obj\Debug\netcoreapp3.1\UndersandingDelegateProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\obj\Debug\netcoreapp3.1\UndersandingDelegateProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\obj\Debug\netcoreapp3.1\UndersandingDelegateProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\obj\Debug\netcoreapp3.1\UndersandingDelegateProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day14\UndersandingDelegateSolution\UndersandingDelegateProject\obj\Debug\netcoreapp3.1\UndersandingDelegateProject.genruntimeconfig.cache

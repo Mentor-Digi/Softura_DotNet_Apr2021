@@ -1,0 +1,12 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportDALLibrary.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportDALLibrary.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csproj.CopyComplete
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.pdb

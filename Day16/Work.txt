@@ -1,0 +1,33 @@
+Employee -> ID,Name,Password,Location,Phone,Vechicle_Id
+Driver -> ID,Name,Phone,status
+Vehicle -> Vechicle_number,Type,Capacity,Driver_ID,Filled_Status,status
+
+
+Employee
+   Adding Employee
+   Updating Employee
+       Phone
+       Password
+       Location
+          Vehicle_id
+  ReadAll
+  ReadAnEmployee
+  Login(Id,Password)
+Vehicle
+  AddingVehicle
+  Updating
+     Capacity
+     Driver_id
+     Filled_Status
+     Status
+ ReadAll
+ ReadAVehicle
+Driver
+  ReadAll
+  ReadADriver
+  Add Driver
+  Update
+    Status
+    Phone
+
+

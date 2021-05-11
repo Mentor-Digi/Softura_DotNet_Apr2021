@@ -1,0 +1,13 @@
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\bin\Debug\netcoreapp3.1\UnderstandingLINQProject.exe
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\bin\Debug\netcoreapp3.1\UnderstandingLINQProject.deps.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\bin\Debug\netcoreapp3.1\UnderstandingLINQProject.runtimeconfig.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\bin\Debug\netcoreapp3.1\UnderstandingLINQProject.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\bin\Debug\netcoreapp3.1\UnderstandingLINQProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\bin\Debug\netcoreapp3.1\UnderstandingLINQProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\obj\Debug\netcoreapp3.1\UnderstandingLINQProject.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\obj\Debug\netcoreapp3.1\UnderstandingLINQProject.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\obj\Debug\netcoreapp3.1\UnderstandingLINQProject.AssemblyInfo.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\obj\Debug\netcoreapp3.1\UnderstandingLINQProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\obj\Debug\netcoreapp3.1\UnderstandingLINQProject.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\obj\Debug\netcoreapp3.1\UnderstandingLINQProject.pdb
+D:\Data\d drive\Corp\Digiterati\Softura\Day19\UnderstandingLINQProject\obj\Debug\netcoreapp3.1\UnderstandingLINQProject.genruntimeconfig.cache

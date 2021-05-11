@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Softura\\EFCoreEg\\EFCoreEg.csproj": {}
+    "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\EFCoreEg\\EFCoreEg.csproj": {}
   },
   "projects": {
-    "G:\\Softura\\EFCoreEg\\EFCoreEg.csproj": {
+    "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\EFCoreEg\\EFCoreEg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Softura\\EFCoreEg\\EFCoreEg.csproj",
+        "projectUniqueName": "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\EFCoreEg\\EFCoreEg.csproj",
         "projectName": "EFCoreEg",
-        "projectPath": "G:\\Softura\\EFCoreEg\\EFCoreEg.csproj",
-        "packagesPath": "C:\\Users\\Shrivalli\\.nuget\\packages\\",
-        "outputPath": "G:\\Softura\\EFCoreEg\\obj\\",
+        "projectPath": "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\EFCoreEg\\EFCoreEg.csproj",
+        "packagesPath": "C:\\Users\\gayat\\.nuget\\packages\\",
+        "outputPath": "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\EFCoreEg\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shrivalli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gayat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5752,23 +5752,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shrivalli\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\gayat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Softura\\CodeFirstEg\\CodeFirstEg.csproj",
+      "projectUniqueName": "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\CodeFirstEg\\CodeFirstEg.csproj",
       "projectName": "CodeFirstEg",
-      "projectPath": "G:\\Softura\\CodeFirstEg\\CodeFirstEg.csproj",
-      "packagesPath": "C:\\Users\\Shrivalli\\.nuget\\packages\\",
-      "outputPath": "G:\\Softura\\CodeFirstEg\\obj\\",
+      "projectPath": "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\CodeFirstEg\\CodeFirstEg.csproj",
+      "packagesPath": "C:\\Users\\gayat\\.nuget\\packages\\",
+      "outputPath": "D:\\Data\\d drive\\Corp\\Digiterati\\Softura\\Day 17 Latest\\CodeFirstEg\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Shrivalli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gayat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5830,7 +5826,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

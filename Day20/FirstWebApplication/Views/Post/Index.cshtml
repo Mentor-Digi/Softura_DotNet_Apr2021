@@ -1,0 +1,29 @@
+﻿@model IEnumerable<FirstWebApplication.Models.Post>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @foreach (var item in Model)
+        {
+            @item.Id
+            <br />
+            @item.PostText
+            <br />
+            @item.Category
+            <br />
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id})
+            <br />
+
+       }
+    </p>
+</body>
+</html>

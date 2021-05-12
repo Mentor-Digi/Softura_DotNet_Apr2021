@@ -1,0 +1,13 @@
+1) Create the model class
+2) Install the required packages
+3) Create the context class
+4) Seed teh data
+5) Update teh database
+6) IMplement the crud -> use LINQ maximum
+
+-------------------------------------------------
+
+User has to post  --AddPost
+  To the post we can add comments --AddCommentToPost
+List posts --ShowPosts
+List comments for a post--ShowPostWithComments

@@ -1,0 +1,5 @@
+http://localhost:59850/Post/Index
+    Domain name       /Controller/Method - get
+
+http://localhost:59850/Post/Edit/101
+    Domain name       /Controller/Method/Parameter - get

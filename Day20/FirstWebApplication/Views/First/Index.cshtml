@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>From the Index view</h1>
+@*<p>
+   Name :  @ViewData["Name"]
+    <br />
+    Age : @ViewData["Age"]
+</p>*@
+<p>
+    Customer's Phone number : @ViewBag.CustomerPhone
+    <br />
+    Price : @ViewBag.Price  
+</p>
+<p>
+    <h2>
+        Post
+    </h2>
+    @TempData.Peek("Post")
+</p>
+<p>
+    <h2>Numbers using ViewData</h2>
+    @foreach (var item in (IEnumerable<int>)ViewData["scores"])
+    {
+        @item
+        <br />
+    }
+</p>
+<p>
+    <h2>Numbers using ViewBag</h2>
+    @foreach (var item in ViewBag.Scores)
+    {
+        @item
+        <br />
+    }
+</p>

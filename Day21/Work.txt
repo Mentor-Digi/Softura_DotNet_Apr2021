@@ -1,0 +1,15 @@
+Default Route
+Layoutpage
+
+AddTransient - sateless for ever request
+AddScoped - once/request
+AddSingleton - Single object for all request - default
+
+EF Core - Model first
+  Book
+    id,title,author_id,price
+  Author
+    id,name,about
+Repo Pattern
+Inject
+Crud

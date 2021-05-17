@@ -1,4 +1,5 @@
 ﻿using LearningMVCProject.Models;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -9,8 +10,8 @@ namespace LearningMVCProject.Services
 {
     public class AuthorManager : IRepo<Author>
     {
-        private PublicationContext _context;
-        private ILogger<AuthorManager> _logger;
+        private readonly PublicationContext _context;
+        private readonly ILogger<AuthorManager> _logger;
 
         public AuthorManager(PublicationContext context,ILogger<AuthorManager> logger)
         {
@@ -63,7 +64,9 @@ namespace LearningMVCProject.Services
             {
                 if (_context.Authors.Count() == 0)
                     return null;
-                return _context.Authors.ToList();
+                return _context.Authors
+                    .Include(a => a.Books)
+                    .ToList();
             }
             catch (Exception e)
             {

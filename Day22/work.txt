@@ -1,0 +1,31 @@
+Step 1
+Creatinga MVC application
+Creating model User(username,password) -connect o database
+Create the Registration View(just the username and password is enough)
+
+Create a project
+Install teh nuGet Packages
+Create the model
+Create the context
+Create the repo and service
+Inject the repo
+Create the controller
+Take teh repo injection
+CreTe the action method
+generaete the view
+
+Step 2
+After Registration go to the Login View(Username should already be there
+in the username textbox)(hint->tempdata)
+
+Step 3
+Create model Employee(id,name,age,username(fk)) ,Salary(salary_id,salary,employeeid(fk),date)
+Enter data in database after model creation
+
+Step 4
+When the employee logs in show his salary details in the index page
+
+
+
+
+code smells

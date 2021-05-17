@@ -11,8 +11,8 @@ namespace LearningMVCProject.Controllers
 {
     public class AuthorController : Controller
     {
-        private ILogger<AuthorController> _logger;
-        private IRepo<Author> _repo;
+        private readonly ILogger<AuthorController> _logger;
+        private readonly IRepo<Author> _repo;
 
         public AuthorController(IRepo<Author> repo,ILogger<AuthorController> logger )
         {
@@ -21,7 +21,7 @@ namespace LearningMVCProject.Controllers
         }
         public IActionResult Index()
         {
-            List<Author> authors = _repo.GetAll().ToList(); ;
+            List<Author> authors = _repo.GetAll().ToList(); 
             return View(authors);
         }
         public IActionResult Create()
@@ -46,6 +46,11 @@ namespace LearningMVCProject.Controllers
             _repo.Update(id, author);
 
             return RedirectToAction("Index");
+        }
+        public IActionResult Details(int id)
+        {
+            Author author = _repo.Get(id);
+            return View(author);
         }
     }
 }

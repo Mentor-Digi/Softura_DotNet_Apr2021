@@ -155,3 +155,6 @@ D:\Data\d drive\Corp\Digiterati\Softura\Day21\LearningMVCProject\bin\Debug\netco
 D:\Data\d drive\Corp\Digiterati\Softura\Day21\LearningMVCProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Data\d drive\Corp\Digiterati\Softura\Day21\LearningMVCProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Data\d drive\Corp\Digiterati\Softura\Day21\LearningMVCProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day21\LearningMVCProject\obj\Debug\netcoreapp3.1\Razor\Views\Author\Details.cshtml.g.cs
+D:\Data\d drive\Corp\Digiterati\Softura\Day21\LearningMVCProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Data\d drive\Corp\Digiterati\Softura\Day21\LearningMVCProject\obj\Debug\netcoreapp3.1\LearningMVCProject.GeneratedMSBuildEditorConfig.editorconfig

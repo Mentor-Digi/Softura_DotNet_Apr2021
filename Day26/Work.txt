@@ -1,0 +1,38 @@
+Node
+  instal
+  why node
+  how to work with node
+  create node apps
+     creating the server
+     creating routes
+     writing to file
+
+Open Source
+Cross Platform
+JS Runtime env
+
+Async
+Event-Driven Model
+
+Fast -> V8Engine
+
+node -> REPL
+
+Predefined Modules - No need to install, only import
+3rd Party Modules - need to install, import
+User defined modules -> define, export and import
+
+
+// function print(){
+//     console.log("Line inside the async");
+// }
+setTimeout(()=>{
+        console.log("Line inside the async");
+    },1000)
+console.log("Line after the async");
+
+CreateServer->loop
+
+
+
+  

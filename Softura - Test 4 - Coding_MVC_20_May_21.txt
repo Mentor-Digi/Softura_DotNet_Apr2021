@@ -1,0 +1,19 @@
+1) Create a MVC application
+The application should take information about a person's profile
+Name, Age, Qualification, IsEmployed, NoticePeriod, CurrentCTC
+
+store the same in database.
+If the storage is successful then should redirect to a success page.
+If any error in the code then the error page should be displayed. 
+
+Note
+Please log the exceptions
+Ensure proper coding standards
+
+2)  Create table to store the weather details
+date,City, highTemp, lowTemp, forcast(rains,heavy rains, cloudy, windy, sunny)
+Create the above in codefirst approch
+Create a WebApi that will take a city and give back the weather of the city 
+
+Also add methods to insert a weather for a day for a city
+

@@ -1,0 +1,139 @@
+Database - Database Engine - store data - retrieve data
+Data is the wealth - 10 years - insight
+TRUNK box - cupboard / Data warehouse = repetitve - pattern - data Analysis
+
+Db  - Normalization of Data
+Dw - Denormalize
+
+Informatica - Data Analytics - Server - Client
+ETL - 
+
+Ramana - Vijayakanth - Floppy
+Minimum size of a database
+1000 - 55:45 - Reports -
+
+Db
+Dw
+ETL
+Report
+
+
+MS SqlServer - BI Tools - Data Analysis
+
+
+
+SSMS - client tool to connect to Database
+MSSQLServer - System Databases?
+
+master - start-up - shutdown - User ID / Password - startup parameters
+	SSMS - uid / pwd
+	Windows Authentication  - integrated security - LogIn - validate
+	Sql Server Authentication - user id  & pwd
+model - Create - Template - create anything  - 
+msdb - Automated Jobs - appointed hour
+tempdb - temporary - session data - over- global - up and running- start the server - shut down server - ZERO
+
+User Database - U
+install SQL server
+SQL Server instance - Default / Named
+		1 / 49
+
+
+
+
+Database :  Files  in OS - Datafiles - Log Files
+Data files - Primary data file - Secondary file - 
+.mdf
+.ndf
+.ldf
+
+Query
+select * from Person.Person
+Schema - Folder - dbo- listed - multiple
+Tablename
+
+Bad query?
+How a query is processed?
+
+Build the query
+Compile the query - exe - execute - Exection plan?
+.mdf & .ldf - log file - connected / peron.person / table /
+database - -8 Mb - sheet - page - 8 Kb - data - header and a footer
+db  with tables
+192 page notebook - religious - sub1 - sub2 - sub3 - 
+written into the page file - tables data is across multiple pages - not continuous located? 
+content page - page files - content / empty
+
+traditional - cache - temp - data - client
+As a new query
+What is INdex?
+
+B-Tree
+Clustered Index  - Key& Data located in the same place - Seek
+Primary Key - Clustered Index - unique -
+hash Key - Ordered list - rows data - mapped - rest of the columns
+Non Clustered Index - any column - 
+Index - in one place - reference to the data - Index of a book
+
+format in which data is stored in the database?
+insert data - appending
+
+
+PatID - Reception  -  Jeyanthi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Login in OS
+steps  to create - Login as the new user
+New user try to connect to sql server
+
+Windows Login - DBA
+
+2. Keep model open and create database
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

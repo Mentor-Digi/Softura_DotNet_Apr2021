@@ -1,0 +1,132 @@
+SQL Server
+Instance - Default / Named 
+Logins - Windows / SQL Server
+System Databases - master, model, msdb and tempdb
+Table - .mdf, .ldf
+Index
+**********************************************
+View
+select  - Disk C: Data -.mdf & Log - .ldf - ask for a data - disk - to read data
+search - product - Server
+
+Virtual Table - SAved query 
+memory - fetch
+could be saved as view
+
+save a complex query
+1. 9 AM - 20 rows - view / 9:30 - 30 rows
+umblical chord - View - connected Table
+2. edit a view - update the view? - update the table / vw_Dpt
+contradicting - constraints in the table
+
+Is view a boon or a bane?
+Table - select - fetch only from table
+Multiple views for a single table
+More views means more memeory - shutdown
+
+What is the structure of the view / table
+*****************************************
+Stored Procedure
+What?
+Pre - Compiled Query
+
+Query - build, compile, exe - execute
+SP -  Exe - Execution Path - optimised
+Performance 
+
+MVC - "Query" - clear text - CLR in compiling this code
+"Learning MVC"  - string literal
+SQLConnection 
+"select * from tablename" Query text - passed on to the SQL Server 
+Parameters - ConString - Server Database, Query, exe, execute
+
+
+50 users - session - database - Server? - solution  - performance - Google
+SP - Threats - query in your application
+
+SQL INjection  - hacker  - inject into your application - "clear text"
+Query - " " - SQL Server -  executed
+Login to SQl Server - Sysadmin - project / application - enormous - oridinary
+SQLConnection con;
+SQLCommand cmd = new SQLCOmmand("select * from tblname; drop tblname ", con);
+
+
+"select * from tblname; drop tblname "
+SP - exe- name- ,.a , Parameters - length - @var
+
+
+adhoc queries - routine - regularly - planned execution 
+Register - 5- enter the data -submit - insert into your table
+
+3 fields - Sp to insert data into your table 
+
+**********************************************
+Functions
+
+Built -in
+User defined
+Scalar - scalar value - depend on a table
+Table valued -  table
+Aggregate
+
+Declare is to declare a variable
+parameters?
+
+class
+{
+int age;
+string name;
+
+access_Specifier ReturnType MethodName(Paramname datatype)
+
+Table value Function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

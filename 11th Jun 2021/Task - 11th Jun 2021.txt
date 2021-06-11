@@ -1,0 +1,3 @@
+1.	Please write separate methods to Select, Insert, Update, Delete to tbl_Books and tbl_Author
+2.	Please create separate stored procedures to Insert, Update Delete to tbl_Books and tbl_Author.
+3.	Please call the stored Procedures in your methods and implement them.

@@ -1,0 +1,38 @@
+MVC - scaffolding
+Code first approach?
+Project ?- SDLC
+Fresh - develop 
+Enhancement -
+Migration - .net framework  to .net core
+
+Customers
+Vendors
+HR
+Finance  - Database - exsisting 
+
+Home
+Insert
+Delete
+
+Database first Approach
+1. Empty Web Application with MVC Folders - Model, Controller and View
+2. Create Controller - CRUD - Empty controller
+                A folder gets created under view
+3. Model - C# class 
+4. View - No model, No Layout - Home.cshtml
+5. Route.Config - CRUD\Index
+6. Additional Views - Create.cshtml & Edit.cshtml
+7. Configuring Model - reference to framework classes
+                DataTable DisplayBooks(){}
+8. COntroller -ActionResult Index()
+Insert  new record into the table
+9. Model - create a method to insert data- SP  to insert data
+10. COntroller - Action Result for Submit Button - data from the form  and the action Button
+                WE called the insert method written in the model.
+                We called the Index - Home Page will be loaded.
+11. View - Create.cshtml - design a form to receive input
+                added submit buttons to Submit and Cancel 
+                added a Form Action Method - 
+12 Action Result in the controller to load Create.cshtml
+13. Home page we added hyperlink to ActionResult method - insert 
+                
